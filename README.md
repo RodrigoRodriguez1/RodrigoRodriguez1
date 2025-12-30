@@ -4,7 +4,7 @@
 
 ### 📍 São Paulo, Brasil | 🎓 Pós-graduando em Software Architecture - FIAP
 
-> Transformando desafios complexos em soluções escaláveis e de alta performance. Especialista em arquitetura de software, desenvolvimento full-stack e liderança técnica.
+> Transformando desafios complexos em soluções escaláveis e de alta performance. Se tornando um especialista em arquitetura de software, Desenvolvimento full-stack e liderança técnica.
 
 ---
 
@@ -12,7 +12,7 @@
 
 Desenvolvedor Full Stack com **6 anos de experiência** atuando em projetos de **alta complexidade** nos setores **financeiro, educacional e e-commerce**. Atualmente na **dti digital** desenvolvendo produtos financeiros para o **Banco Master**, com foco em **arquitetura de microfrontends**, **Design Systems** e **performance**.
 
-- 🏦 **Atual**: Desenvolvedor Full Stack @ dti digital (Banco Master)
+- 🏦 **Atual**: Desenvolvedor Full Stack @
 - 🎯 **Especialização**: Arquitetura de Software, Microfrontends, Clean Architecture
 - 🚀 **Stack Principal**: React, TypeScript, Node.js, .NET, AWS, Azure
 - 📐 **Princípios**: SOLID, Clean Code, TDD, DDD
@@ -28,7 +28,6 @@ Desenvolvedor Full Stack com **6 anos de experiência** atuando em projetos de *
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Single-SPA](https://img.shields.io/badge/Single--SPA-000000?style=for-the-badge&logo=single-spa&logoColor=white)
 
 #### Backend & API
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -69,31 +68,54 @@ const rodrigoRodriguez = {
   yearsOfExperience: 6,
 
   currentRole: {
-    company: "dti digital",
-    client: "Banco Master",
+    company: "",
+    client: "",
     position: "Desenvolvedor Full Stack",
     focus: ["Microfrontends", "Design Systems", "FinTech Solutions"]
   },
 
   architecture: {
-    patterns: ["Microfrontends", "Microservices", "Clean Architecture", "DDD"],
-    principles: ["SOLID", "TDD", "Clean Code", "YAGNI"],
-    expertise: ["Single-SPA", "Event-Driven", "Serverless", "Cloud Native"]
+    patterns: ["Microservices", "Event-Driven", "Microfrontends", "Clean Architecture", "DDD", "CQRS"],
+    principles: ["SOLID", "TDD", "Clean Code", "Hexagonal Architecture"],
+    expertise: [
+      "Event-Driven Architecture (SNS/SQS)",
+      "Microservices on AWS EKS",
+      "Single-SPA Microfrontends",
+      "Serverless (Lambda, API Gateway)",
+      "GitOps with ArgoCD"
+    ]
+  },
+
+  cloudExpertise: {
+    aws: [
+      "EKS (Kubernetes 1.34) - Orquestração de containers",
+      "API Gateway + VPC Link - Roteamento HTTP",
+      "SNS/SQS - Mensageria assíncrona event-driven",
+      "Lambda (.NET 8) - Funções serverless",
+      "RDS PostgreSQL + DynamoDB - Databases híbridos",
+      "Cognito - Autenticação e autorização",
+      "CloudWatch - Logs e métricas",
+      "Terraform - Infrastructure as Code"
+    ],
+    monitoring: ["Prometheus", "Grafana", "Datadog", "CloudWatch"]
   },
 
   domains: [
     "💰 FinTech - Produtos financeiros complexos",
     "🎓 EdTech - Plataformas educacionais",
     "🛒 E-commerce - Soluções completas",
+    "🍔 FoodTech - Event-driven microservices (StackFood)",
     "🏛️ Gov - Portais institucionais (USP)"
   ],
 
   specialties: [
-    "Arquitetura de Microfrontends com Single-SPA",
-    "Design Systems & Component Libraries",
-    "Performance & Otimização (Datadog, CloudWatch)",
-    "Integração AWS/Azure & Serverless",
-    "Mentoria & Liderança Técnica"
+    "🏗️ Event-Driven Microservices (SNS/SQS)",
+    "☁️ AWS Cloud Architecture (EKS, Lambda, RDS, DynamoDB)",
+    "🚀 GitOps & CI/CD (ArgoCD, GitHub Actions)",
+    "🎨 Microfrontends com Single-SPA",
+    "📊 Design Systems & Component Libraries",
+    "📈 Observability (Prometheus, Grafana, Datadog)",
+    "👨‍🏫 Mentoria & Liderança Técnica"
   ],
 
   certifications: [
@@ -127,38 +149,6 @@ const rodrigoRodriguez = {
 
 ---
 
-### 💼 Trajetória Profissional
-
-#### 🏦 dti digital (Jan/2025 - Atual) - Banco Master
-**Desenvolvedor Full Stack - FinTech**
-- Desenvolvimento de produtos financeiros complexos (Previdência, Tesouro Direto, Renda Fixa, Fundos, Câmbio)
-- Arquitetura de Microfrontends com Single-SPA
-- Criação e manutenção de Design System com Storybook
-- Dashboards e painéis administrativos para gestão operacional
-- Stack: React, TypeScript, Zustand, TailwindCSS, Azure DevOps, Datadog
-
-#### 🎓 dti digital (Jun/2022 - Jan/2025) - Ânima Educação
-**Desenvolvedor Full Stack - EdTech**
-- Desenvolvimento de sistemas educacionais robustos e multifacetados
-- Mentoria técnica de estagiários
-- Implementação de arquitetura serverless na AWS
-- Stack: React, Vue.js, Node.js, .NET 8, AWS (Lambda, DynamoDB, SQS), Azure
-
-#### 🛒 Thoth Company (Ago/2020 - Jun/2022)
-**Desenvolvedor Full Stack - E-commerce**
-- Liderança no desenvolvimento de plataforma e-commerce completa
-- Dashboard gerencial com controle de estoque, vendas e análises
-- Aplicativo mobile para clientes (Flutter)
-- Stack: Flutter, Angular, Node.js, Firebase, SQL Server
-
-#### 🏛️ TKSI - Soluções em TI (Jan/2019 - Ago/2020)
-**Desenvolvedor Full Stack - Portais Institucionais**
-- Desenvolvimento de portais para unidades USP
-- Gestão de documentos e automação de fluxos
-- Stack: SharePoint, .NET, Angular, SQL Server
-
----
-
 ### 🎓 Formação & Certificações
 
 **Pós-graduação**
@@ -187,8 +177,6 @@ const rodrigoRodriguez = {
 ### 📫 Vamos Conversar?
 
 - 💼 **LinkedIn**: [linkedin.com/in/rodrigorodriguezf](https://www.linkedin.com/in/rodrigorodriguezf/)
-- 📧 **Email**: rodrigorfig1@gmail.com
-- 📱 **WhatsApp**: (11) 94585-1128
 - 🌐 **GitHub**: Você já está aqui! 😄
 
 ---

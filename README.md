@@ -10,7 +10,7 @@
 
 ### 💡 Sobre Mim
 
-Desenvolvedor Full Stack com **6 anos de experiência** atuando em projetos de **alta complexidade** nos setores **financeiro, educacional e e-commerce**. Atualmente na **dti digital** desenvolvendo produtos financeiros para o **Banco Master**, com foco em **arquitetura de microfrontends**, **Design Systems** e **performance**.
+Desenvolvedor Full Stack com **6 anos de experiência** atuando em projetos de **alta complexidade** nos setores **financeiro, educacional e e-commerce**. Atualmente na ** ** desenvolvendo produtos financeiros para o **Banco Master**, com foco em **arquitetura de microfrontends**, **Design Systems** e **performance**.
 
 - 🏦 **Atual**: Desenvolvedor Full Stack @
 - 🎯 **Especialização**: Arquitetura de Software, Microfrontends, Clean Architecture

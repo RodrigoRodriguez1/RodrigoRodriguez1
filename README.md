@@ -1,44 +1,62 @@
-# 👋 Olá! Sou Rodrigo Rodriguez
+# 👋 Olá! Sou Rodrigo Rodriguez Figueiredo
 
-## 🏗️ Arquiteto de Software | Brasil
+## 🏗️ Software Architect | Full Stack Developer
 
-> Transformando ideias complexas em soluções elegantes e escaláveis.
+### 📍 São Paulo, Brasil | 🎓 Pós-graduando em Software Architecture - FIAP
+
+> Transformando desafios complexos em soluções escaláveis e de alta performance. Especialista em arquitetura de software, desenvolvimento full-stack e liderança técnica.
 
 ---
 
 ### 💡 Sobre Mim
 
-Sou um **Arquiteto de Software** apaixonado por criar soluções robustas e inovadoras. Minha experiência abrange desde a concepção arquitetural até a implementação de sistemas escaláveis, sempre priorizando qualidade, performance e manutenibilidade.
+Desenvolvedor Full Stack com **6 anos de experiência** atuando em projetos de **alta complexidade** nos setores **financeiro, educacional e e-commerce**. Atualmente na **dti digital** desenvolvendo produtos financeiros para o **Banco Master**, com foco em **arquitetura de microfrontends**, **Design Systems** e **performance**.
 
-- 🎯 Foco em **arquitetura de soluções** e **boas práticas**
-- 🚀 Especialista em **desenvolvimento full-stack**
-- 📐 Design de **sistemas distribuídos** e **microsserviços**
-- 💻 Código limpo, SOLID e padrões de projeto
+- 🏦 **Atual**: Desenvolvedor Full Stack @ dti digital (Banco Master)
+- 🎯 **Especialização**: Arquitetura de Software, Microfrontends, Clean Architecture
+- 🚀 **Stack Principal**: React, TypeScript, Node.js, .NET, AWS, Azure
+- 📐 **Princípios**: SOLID, Clean Code, TDD, DDD
+- 🌱 **Aprendendo**: Pós Tech em Software Architecture (FIAP)
 
 ---
 
 ### 🛠️ Stack Tecnológica
 
-#### Backend & Arquitetura
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-#### Frontend & Mobile
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+#### Frontend & Arquitetura
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Single-SPA](https://img.shields.io/badge/Single--SPA-000000?style=for-the-badge&logo=single-spa&logoColor=white)
+
+#### Backend & API
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+
+#### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 #### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-#### Database
+#### Database & Mensageria
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+#### Ferramentas & Qualidade
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
 ---
 
@@ -46,25 +64,45 @@ Sou um **Arquiteto de Software** apaixonado por criar soluções robustas e inov
 
 ```typescript
 const rodrigoRodriguez = {
-  role: "Arquiteto de Software",
-  location: "Brasil 🇧🇷",
+  role: "Software Architect & Full Stack Developer",
+  location: "São Paulo, Brasil 🇧🇷",
+  yearsOfExperience: 6,
 
-  architecture: {
-    patterns: ["Microservices", "Event-Driven", "Clean Architecture", "DDD"],
-    principles: ["SOLID", "DRY", "KISS", "YAGNI"],
-    designPatterns: ["Repository", "Factory", "Strategy", "Observer"]
+  currentRole: {
+    company: "dti digital",
+    client: "Banco Master",
+    position: "Desenvolvedor Full Stack",
+    focus: ["Microfrontends", "Design Systems", "FinTech Solutions"]
   },
 
-  specialties: [
-    "Arquitetura de Soluções",
-    "Integração de Sistemas",
-    "APIs RESTful & GraphQL",
-    "Performance & Escalabilidade",
-    "Code Review & Mentoria"
+  architecture: {
+    patterns: ["Microfrontends", "Microservices", "Clean Architecture", "DDD"],
+    principles: ["SOLID", "TDD", "Clean Code", "YAGNI"],
+    expertise: ["Single-SPA", "Event-Driven", "Serverless", "Cloud Native"]
+  },
+
+  domains: [
+    "💰 FinTech - Produtos financeiros complexos",
+    "🎓 EdTech - Plataformas educacionais",
+    "🛒 E-commerce - Soluções completas",
+    "🏛️ Gov - Portais institucionais (USP)"
   ],
 
-  currentFocus: "Construindo soluções robustas e escaláveis",
-  passions: ["Clean Code", "System Design", "Innovation"]
+  specialties: [
+    "Arquitetura de Microfrontends com Single-SPA",
+    "Design Systems & Component Libraries",
+    "Performance & Otimização (Datadog, CloudWatch)",
+    "Integração AWS/Azure & Serverless",
+    "Mentoria & Liderança Técnica"
+  ],
+
+  certifications: [
+    "Microsoft - Managing SharePoint Server 2016",
+    "Microsoft - Programming in HTML5, JS & CSS3"
+  ],
+
+  currentFocus: "Building scalable financial solutions at Banco Master",
+  learning: "Pós-graduação em Software Architecture @ FIAP"
 };
 ```
 
@@ -89,33 +127,80 @@ const rodrigoRodriguez = {
 
 ---
 
-### 💼 O que eu faço
+### 💼 Trajetória Profissional
 
-- ✅ **Arquitetura de Software** - Design de soluções escaláveis e de alta performance
-- ✅ **Desenvolvimento Full-Stack** - Da concepção à entrega
-- ✅ **Code Review & Mentoria** - Elevando a qualidade do código do time
-- ✅ **Integração de Sistemas** - APIs, webhooks, mensageria
-- ✅ **Otimização & Performance** - Análise e melhoria contínua
+#### 🏦 dti digital (Jan/2025 - Atual) - Banco Master
+**Desenvolvedor Full Stack - FinTech**
+- Desenvolvimento de produtos financeiros complexos (Previdência, Tesouro Direto, Renda Fixa, Fundos, Câmbio)
+- Arquitetura de Microfrontends com Single-SPA
+- Criação e manutenção de Design System com Storybook
+- Dashboards e painéis administrativos para gestão operacional
+- Stack: React, TypeScript, Zustand, TailwindCSS, Azure DevOps, Datadog
+
+#### 🎓 dti digital (Jun/2022 - Jan/2025) - Ânima Educação
+**Desenvolvedor Full Stack - EdTech**
+- Desenvolvimento de sistemas educacionais robustos e multifacetados
+- Mentoria técnica de estagiários
+- Implementação de arquitetura serverless na AWS
+- Stack: React, Vue.js, Node.js, .NET 8, AWS (Lambda, DynamoDB, SQS), Azure
+
+#### 🛒 Thoth Company (Ago/2020 - Jun/2022)
+**Desenvolvedor Full Stack - E-commerce**
+- Liderança no desenvolvimento de plataforma e-commerce completa
+- Dashboard gerencial com controle de estoque, vendas e análises
+- Aplicativo mobile para clientes (Flutter)
+- Stack: Flutter, Angular, Node.js, Firebase, SQL Server
+
+#### 🏛️ TKSI - Soluções em TI (Jan/2019 - Ago/2020)
+**Desenvolvedor Full Stack - Portais Institucionais**
+- Desenvolvimento de portais para unidades USP
+- Gestão de documentos e automação de fluxos
+- Stack: SharePoint, .NET, Angular, SQL Server
 
 ---
 
-### 🌱 Sempre Aprendendo
+### 🎓 Formação & Certificações
 
-Acredito que um bom arquiteto nunca para de aprender. Estou constantemente explorando novas tecnologias, padrões e práticas para entregar soluções cada vez melhores.
+**Pós-graduação**
+- 🎯 **Pós Tech em Software Architecture** - FIAP (2025 - Atual)
+
+**Graduação**
+- 🎓 **Análise e Desenvolvimento de Sistemas** - FIAP (2019)
+
+**Certificações Microsoft**
+- 📜 Managing Microsoft SharePoint Server 2016
+- 📜 Programming in HTML5 with JavaScript and CSS3
+
+---
+
+### 🌟 Destaques
+
+- 💰 **FinTech**: Desenvolvimento de produtos financeiros de alta complexidade
+- 🏗️ **Microfrontends**: Arquitetura Single-SPA em produção
+- 📊 **Design Systems**: Criação e manutenção com Storybook
+- ☁️ **Cloud Native**: Experiência em AWS e Azure (Serverless, Lambda, DevOps)
+- 👨‍🏫 **Mentoria**: Suporte e orientação técnica de desenvolvedores júnior
+- 📱 **Mobile**: Publicação de apps na Play Store e App Store
 
 ---
 
 ### 📫 Vamos Conversar?
 
-- 💼 **LinkedIn**: [linkedin.com/in/rodrigo-rodriguez](https://linkedin.com/in/rodrigo-rodriguez)
-- 📧 **Email**: rodrigo.rodriguez@example.com
-- 🌐 **Portfolio**: Em breve...
+- 💼 **LinkedIn**: [linkedin.com/in/rodrigorodriguezf](https://www.linkedin.com/in/rodrigorodriguezf/)
+- 📧 **Email**: rodrigorfig1@gmail.com
+- 📱 **WhatsApp**: (11) 94585-1128
+- 🌐 **GitHub**: Você já está aqui! 😄
 
 ---
 
 <div align="center">
 
-### ⚡ "Código limpo não é escrito seguindo regras. É escrito por desenvolvedores que se importam." - Robert C. Martin
+### 💡 "Clean code is not written by following rules. Clean code is written by someone who cares."
+**― Robert C. Martin**
+
+---
+
+### 🚀 Sempre em busca de novos desafios e oportunidades para criar soluções que façam a diferença!
 
 </div>
 

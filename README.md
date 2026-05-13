@@ -1,17 +1,16 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║           Rodrigo Rodriguez · Full Stack Engineer            ║
-║     Sistemas financeiros · AWS · Microserviços · .NET        ║
-╚══════════════════════════════════════════════════════════════╝
-```
+# Rodrigo Rodriguez
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1200&color=3B82F6&center=true&vCenter=true&multiline=false&width=560&lines=Full+Stack+Engineer+%E2%86%92+Software+Architect;Sistemas+financeiros+de+alta+criticidade;AWS+%C2%B7+Microservi%C3%A7os+%C2%B7+.NET+%C2%B7+React;BTG+Pactual+%C2%B7+Banco+Master+%C2%B7+6+anos;Clean+Architecture+%C2%B7+Event-Driven+Design;S%C3%A3o+Paulo%2C+Brasil)](https://git.io/typing-svg)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rodrigorodriguezf-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigorodriguezf/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rodrigorodriguez.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://rodrigorodriguez.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rodrigorodriguez.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-rho-fawn-58.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-rodrigorfig1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rodrigorfig1@gmail.com)
-[![Location](https://img.shields.io/badge/São_Paulo-Brasil-009739?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/S%C3%A3o_Paulo-Brasil-009739?style=flat-square&logoColor=white)](#)
 
 </div>
 
@@ -138,7 +137,7 @@ currently:
 *Clean code is written by someone who cares."*
 — Robert C. Martin
 
-**→** Aberto a oportunidades em engenharia sênior e arquitetura de software.
+**→** Aberto a oportunidades em engenharia e arquitetura de software.
 
 [![LinkedIn](https://img.shields.io/badge/Vamos_conversar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigorodriguezf/)
 

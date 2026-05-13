@@ -3,7 +3,7 @@
 
 # Rodrigo Rodriguez
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1200&color=3B82F6&center=true&vCenter=true&multiline=false&width=560&lines=Full+Stack+Engineer+%E2%86%92+Software+Architect;Sistemas+financeiros+de+alta+criticidade;AWS+%C2%B7+Microservi%C3%A7os+%C2%B7+.NET+%C2%B7+React;BTG+Pactual+%C2%B7+Banco+Master+%C2%B7+6+anos;Clean+Architecture+%C2%B7+Event-Driven+Design;S%C3%A3o+Paulo%2C+Brasil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1200&color=3B82F6&center=true&vCenter=true&multiline=false&width=560&lines=Full+Stack+Engineer;.NET+%C2%B7+React+%C2%B7+AWS+%C2%B7+TypeScript;BTG+Pactual+%C2%B7+Banco+Master;6+anos+de+carreira%2C+S%C3%A3o+Paulo)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,27 +19,22 @@
 ```yaml
 profile:
   name: Rodrigo Rodriguez
-  role: Full Stack Engineer → Software Architect
-  experience: 6 years
+  role: Full Stack Engineer
+  experience: 6 anos de carreira
   location: São Paulo, Brasil
   available: true
 
-focus:
-  - Arquitetura de microserviços e microfrontends
-  - Sistemas financeiros de alta criticidade
-  - Infraestrutura cloud-native AWS
-  - Clean Architecture · SOLID · Event-Driven Design
+historico:
+  - tksi · USP          # portais institucionais, SharePoint, .NET
+  - THOTH Company       # rastreabilidade, e-commerce, apps mobile
+  - dti digital · Ânima # plataforma educacional, AWS, Node.js, .NET
+  - Espresso · Master   # microfrontends, Design System, produtos financeiros
+  - FCamara · BTG       # Crédito, Garantias, Débito Automático, AWS
 
-clients:
-  - BTG Pactual   # Crédito, Garantias, Débito Automático
-  - Banco Master  # Previdência, Tesouro Direto, Renda Fixa
-  - Ânima Educação
-  - USP
-
-currently:
-  doing: Full Stack Engineer @ FCamara · BTG Pactual
-  studying: Pós Tech Software Architecture · FIAP (2025 → 2026)
-  goal: Evoluir para papéis de Arquitetura de Software
+agora:
+  empresa: FCamara · BTG Pactual
+  stack: .NET · React · AWS Lambda · SQS · CloudFormation
+  estudando: Pós Tech Software Architecture · FIAP (2025 → 2026)
 ```
 
 ---
@@ -67,35 +62,33 @@ currently:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 **Databases & Messaging**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQS/SNS](https://img.shields.io/badge/SQS%2FSNS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 **Observability**
 
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
-## Cases
+## Projetos
 
 **Migração AWS Multi-Region · BTG Pactual**
-> Liderança técnica da migração da infraestrutura de Garantias do Brasil para AWS nos EUA.
-> Estruturei do zero: VPC, Subnets, Security Groups, IAM Roles, CloudFormation Stacks, SQS, SNS em ambiente multi-region para um sistema bancário crítico.
+> O setor de Garantias precisava operar numa região AWS nos EUA. Montei a conta do zero: VPC, Security Groups, IAM, CloudFormation, SQS e SNS. O ambiente brasileiro não teve interrupção.
 
-**Design System do zero · Banco Master**
-> Criação do Design System completo para produtos financeiros — Previdência Privada, Tesouro Direto, Renda Fixa.
-> Stack: React · TypeScript · Storybook · Single-SPA · Vite. Adotado por múltiplos squads com consistência visual garantida.
+**Design System · Banco Master**
+> Vários squads construindo produtos financeiros sem componentes compartilhados. Criei o Design System do zero — tokens, componentes com variantes, Storybook — e migrei o legado sem quebrar nada em produção.
 
-**Mapeamento de Sistema Legado · BTG Pactual**
-> Reverse engineering e documentação completa do sistema de Débito Automático sem documentação prévia.
-> Produzi documentação em modelo C4, diagramas no Miro e apresentei para times de OPS e stakeholders.
+**Documentação do Débito Automático · BTG Pactual**
+> Sistema em produção sem documentação nenhuma. Li o código, rastreei os eventos no Datadog e CloudWatch, e produzi documentação C4 + diagramas de sequência. Apresentei para OPS e stakeholders.
 
 ---
 
@@ -133,12 +126,8 @@ currently:
 
 <div align="center">
 
-*"Clean code is not written by following rules.*
-*Clean code is written by someone who cares."*
-— Robert C. Martin
+Aberto a oportunidades em engenharia e arquitetura de software. Pode chamar no LinkedIn.
 
-**→** Aberto a oportunidades em engenharia e arquitetura de software.
-
-[![LinkedIn](https://img.shields.io/badge/Vamos_conversar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigorodriguezf/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rodrigorodriguezf-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigorodriguezf/)
 
 </div>

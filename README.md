@@ -34,7 +34,7 @@ historico:
 agora:
   empresa: FCamara · BTG Pactual
   stack: .NET · React · AWS Lambda · SQS · CloudFormation
-  estudando: Pós Tech Software Architecture · FIAP (2025 → 2026)
+  pos: Pós Tech Software Architecture · FIAP (2025 → 2026)
 ```
 
 ---
@@ -49,6 +49,7 @@ agora:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Single-SPA](https://img.shields.io/badge/Single--SPA-7B42BC?style=flat-square&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 
 **Backend**
@@ -62,6 +63,8 @@ agora:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 **Databases & Messaging**
@@ -70,6 +73,7 @@ agora:
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 ![SQS/SNS](https://img.shields.io/badge/SQS%2FSNS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 **Observability**
 
@@ -85,10 +89,18 @@ agora:
 > O setor de Garantias precisava operar numa região AWS nos EUA. Montei a conta do zero: VPC, Security Groups, IAM, CloudFormation, SQS e SNS. O ambiente brasileiro não teve interrupção.
 
 **Design System · Banco Master**
-> Vários squads construindo produtos financeiros sem componentes compartilhados. Criei o Design System do zero — tokens, componentes com variantes, Storybook — e migrei o legado sem quebrar nada em produção.
+> Vários squads construindo produtos financeiros sem componentes compartilhados. Criei o Design System do zero (tokens, componentes com variantes, Storybook) e migrei o legado sem quebrar nada em produção.
 
 **Documentação do Débito Automático · BTG Pactual**
-> Sistema em produção sem documentação nenhuma. Li o código, rastreei os eventos no Datadog e CloudWatch, e produzi documentação C4 + diagramas de sequência. Apresentei para OPS e stakeholders.
+> Sistema em produção sem documentação. Li o código, rastreei os eventos no Datadog e CloudWatch e produzi documentação C4 com diagramas de sequência. Apresentei para OPS e engenharia.
+
+**StackFood · Pós Tech FIAP SOAT**
+> Plataforma de pedidos para food service com 5 microserviços .NET 8, cada um com banco próprio. Comunicação assíncrona via SNS/SQS, DDD, CQRS e infra completa com Terraform, EKS e ArgoCD.
+> [github.com/Stack-Food](https://github.com/Stack-Food)
+
+**OptimusFrame · Hackathon FIAP SOAT**
+> Pipeline de processamento de vídeo com .NET 8 e RabbitMQ. Upload vai para o S3, Worker extrai frames com OpenCvSharp, comprime em ZIP e notifica via SES. Cobertura de testes acima de 70%.
+> [github.com/Stack-Food/optimus-frame-core](https://github.com/Stack-Food/optimus-frame-core)
 
 ---
 
@@ -117,10 +129,10 @@ agora:
 
 ## Formação
 
-- **Pós Tech — Software Architecture** · FIAP · 2025 → 2026 *(em andamento)*
+- **Pós Tech · Software Architecture** · FIAP · 2025 → 2026 *(em andamento)*
 - **Tecnólogo em ADS** · FIAP · 2018 → 2019
-- **Exam 480** — Programming in HTML5 with JavaScript and CSS3 · Microsoft
-- **Exam 339** — Managing Microsoft SharePoint Server 2016 · Microsoft
+- **Exam 480** · Programming in HTML5 with JavaScript and CSS3 · Microsoft
+- **Exam 339** · Managing Microsoft SharePoint Server 2016 · Microsoft
 
 ---
 
